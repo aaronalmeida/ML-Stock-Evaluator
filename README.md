@@ -6,7 +6,7 @@ First let me start of with an obligatory meme to sum up the entire project
 
 I'd like to shout out @sentdex on YouTube for an amazing guide that I used to create this.
 
-The code followed the framework for all machine learning processes. 
+The code followed the framework for almost all machine learning processes. 
 1. Data Collection: the data was pulled using a scraper that would use regular expressions to strip data from yahoo html files, the amazing Quandl API helped fill in the rest of the data
 
 2. Data Preparation: Using the SKLearn library on python, the data was randomized and split int training and evaluation sets. An additional script was used to fill in missing values
