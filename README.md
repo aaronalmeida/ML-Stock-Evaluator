@@ -11,6 +11,7 @@ I'd like to shout out @sentdex on YouTube for an amazing guide that I used to cr
 - Python 3
 - Scikit-learn
 - matplotlib
+- Pandas
 
 ## Data Source
 - Quandl
