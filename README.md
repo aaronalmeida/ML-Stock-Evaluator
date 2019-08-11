@@ -12,6 +12,7 @@ I'd like to shout out @sentdex on YouTube for an amazing guide that I used to cr
 - Scikit-learn
 - matplotlib
 - Pandas
+- RegEx
 
 ## Data Source
 - Quandl
