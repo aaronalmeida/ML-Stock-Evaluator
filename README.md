@@ -1,7 +1,7 @@
 # ML-Stock-Evaluator
 A Machine Learning based stock evaluator that will label stocks as a buy or sell based on certain fundametal signals.
 
-First let me start of with an obligatory meme to sum up the entire project
+First let me start of with a meme to sum up the entire project
 ![alt text](https://github.com/aaronalmeida/ML-Stock-Evaluator/blob/master/machineLearning.png)
 
 I'd like to shout out @sentdex on YouTube for an amazing guide that I used to create this.
