@@ -25,7 +25,7 @@ First let me start of with a meme to sum up the entire project
 The code followed the framework for almost all machine learning processes. 
 1. Data Collection: the data was pulled using a scraper that would use regular expressions to strip data from yahoo html files, the amazing Quandl API helped fill in the rest of the data
 
-2. Data Preparation: Using the SKLearn library on python, the data was randomized and split int training and evaluation sets. An additional script was used to fill in missing values
+2. Data Preparation: Using the SKLearn library on python, the data was randomized and split into training and evaluation sets. An additional script was used to fill in missing values
 
 3. Model: Linear Support Vector Classification
 
